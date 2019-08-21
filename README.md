@@ -1,0 +1,1 @@
+## React application simulating a phonebook application. The user can add contacts and store them in a database. The application will be hosted on heroku for demonstration

@@ -1,0 +1,25 @@
+{
+  "name": "nodeandexpress",
+  "version": "1.0.0",
+  "description": "Solution for parts 3.1 until 3.6",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "Abhishek Prashant",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.9.1",
+    "nodemon": "^1.19.1"
+  }
+}
